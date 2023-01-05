@@ -437,3 +437,4 @@ Updated styling and themes
 Fixed typo in documentation - v8.3.4
 Added proper error handling - update 39
 Improved performance optimization - 296
+Fixed critical bug in main module - 441
