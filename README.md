@@ -428,3 +428,4 @@ Fixed typo in documentation - build 295
 Improved user interface design - v2.4.0
 Updated README with new instructions - 226
 Updated configuration settings - build 228
+Updated dependencies to latest versions - update 14
