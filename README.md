@@ -1130,3 +1130,4 @@ Updated dependencies to latest versions - v7.8.3
 Fixed typo in documentation
 Fixed typo in documentation - 531
 Improved performance optimization
+Code cleanup and formatting
