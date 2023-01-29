@@ -841,3 +841,4 @@ Fixed typo in documentation
 Updated version number - build 740
 Updated dependencies to latest versions - update 5
 Added new feature for better user experience
+Added new feature for better user experience - v10.3.9
