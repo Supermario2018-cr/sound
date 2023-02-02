@@ -773,3 +773,4 @@ Added proper error handling - 922
 Added proper error handling
 Fixed typo in documentation - build 679
 Fixed typo in documentation
+Updated README with new instructions - update 19
