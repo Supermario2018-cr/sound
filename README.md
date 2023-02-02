@@ -775,3 +775,4 @@ Fixed typo in documentation - build 679
 Fixed typo in documentation
 Updated README with new instructions - update 19
 Code cleanup and formatting - v3.1.2
+Added proper error handling - 150
