@@ -274,3 +274,4 @@ Added proper error handling - v9.2.1
 Refactored code for better maintainability - 503
 Updated version number - update 49
 Improved user interface design - v1.5.7
+Added proper error handling - v8.6.4
