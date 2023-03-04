@@ -382,3 +382,4 @@ Code cleanup and formatting - update 26
 Updated project documentation
 Refactored code for better maintainability
 Fixed code formatting issues - update 31
+Added detailed comments for clarity - update 10
