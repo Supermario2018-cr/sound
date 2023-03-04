@@ -1308,3 +1308,4 @@ Updated README with new instructions - 355
 Added proper error handling
 Added proper error handling
 Updated styling and themes - build 962
+Updated README with new instructions
