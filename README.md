@@ -381,3 +381,4 @@ Updated styling and themes - 81
 Code cleanup and formatting - update 26
 Updated project documentation
 Refactored code for better maintainability
+Fixed code formatting issues - update 31
