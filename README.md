@@ -1165,3 +1165,4 @@ Fixed code formatting issues - v4.5.3
 Updated configuration settings - 705
 Updated version number
 Code cleanup and formatting - update 4
+Updated README with new instructions - update 40
