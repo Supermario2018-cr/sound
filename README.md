@@ -1163,3 +1163,4 @@ Updated dependencies to latest versions - build 890
 Fixed code formatting issues - v8.9.7
 Fixed code formatting issues - v4.5.3
 Updated configuration settings - 705
+Updated version number
