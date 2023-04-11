@@ -547,3 +547,4 @@ Added detailed comments for clarity - v9.1.5
 Added detailed comments for clarity
 Optimized algorithm for better efficiency - 183
 Updated configuration settings - 239
+Updated README with new instructions - v8.0.5
