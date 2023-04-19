@@ -90,3 +90,4 @@ Fixed typo in documentation - update 18
 Refactored code for better maintainability - v3.1.8
 Updated styling and themes - build 939
 Fixed critical bug in main module - build 225
+Added new feature for better user experience - 423
