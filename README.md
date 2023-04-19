@@ -93,3 +93,4 @@ Fixed critical bug in main module - build 225
 Added new feature for better user experience - 423
 Updated styling and themes - build 884
 Optimized algorithm for better efficiency - update 2
+Added proper error handling - v1.7.2
