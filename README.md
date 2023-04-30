@@ -859,3 +859,4 @@ Code cleanup and formatting - build 452
 Added detailed comments for clarity - 17
 Updated configuration settings
 Fixed memory management issue - v3.5.1
+Updated README with new instructions
