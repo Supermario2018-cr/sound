@@ -861,3 +861,4 @@ Updated configuration settings
 Fixed memory management issue - v3.5.1
 Updated README with new instructions
 Updated configuration settings
+Fixed memory management issue
