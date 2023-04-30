@@ -651,3 +651,4 @@ Fixed code formatting issues - build 239
 Updated README with new instructions - build 492
 Added input validation - build 560
 Refactored code for better maintainability - v5.9.6
+Added new feature for better user experience - v5.3.7
