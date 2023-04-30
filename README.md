@@ -655,3 +655,4 @@ Added new feature for better user experience - v5.3.7
 Refactored code for better maintainability - update 13
 Fixed typo in documentation - update 17
 Fixed typo in documentation - build 155
+Fixed critical bug in main module - v7.0.9
