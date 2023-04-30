@@ -657,3 +657,4 @@ Fixed typo in documentation - update 17
 Fixed typo in documentation - build 155
 Fixed critical bug in main module - v7.0.9
 Fixed critical bug in main module - update 22
+Updated configuration settings - update 10
