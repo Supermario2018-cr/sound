@@ -458,3 +458,4 @@ Added new feature for better user experience - 554
 Updated dependencies to latest versions - v5.3.7
 Code cleanup and formatting - v2.6.5
 Fixed critical bug in main module - update 14
+Fixed code formatting issues - v4.8.3
