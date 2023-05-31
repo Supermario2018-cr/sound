@@ -124,3 +124,4 @@ Updated styling and themes - build 128
 Fixed critical bug in main module - 114
 Fixed typo in documentation - build 453
 Fixed code formatting issues - 987
+Fixed code formatting issues - v6.1.0
