@@ -722,3 +722,4 @@ Added comprehensive test coverage
 Fixed typo in documentation - 324
 Code cleanup and formatting - 371
 Code cleanup and formatting - build 943
+Updated configuration settings - v7.9.4
