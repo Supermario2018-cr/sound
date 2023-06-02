@@ -727,3 +727,4 @@ Added input validation - 258
 Code cleanup and formatting - update 10
 Updated dependencies to latest versions - v10.7.0
 Added proper error handling - 288
+Fixed typo in documentation - v5.8.0
