@@ -33,3 +33,4 @@ Updated configuration settings
 Updated version number
 Updated dependencies to latest versions - update 3
 Added proper error handling - build 801
+Updated README with new instructions - build 146
