@@ -160,3 +160,4 @@ Fixed critical bug in main module - update 10
 Added new feature for better user experience
 Fixed critical bug in main module - build 376
 Optimized algorithm for better efficiency - 730
+Updated README with new instructions - v6.2.3
