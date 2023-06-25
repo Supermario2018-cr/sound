@@ -161,3 +161,4 @@ Added new feature for better user experience
 Fixed critical bug in main module - build 376
 Optimized algorithm for better efficiency - 730
 Updated README with new instructions - v6.2.3
+Updated styling and themes - v8.0.5
