@@ -159,3 +159,4 @@ Added new feature for better user experience - v2.0.6
 Fixed critical bug in main module - update 10
 Added new feature for better user experience
 Fixed critical bug in main module - build 376
+Optimized algorithm for better efficiency - 730
