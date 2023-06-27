@@ -954,3 +954,4 @@ Improved performance optimization - 335
 Fixed code formatting issues - build 421
 Refactored code for better maintainability
 Added proper error handling - update 43
+Updated README with new instructions - 727
