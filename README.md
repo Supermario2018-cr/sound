@@ -666,3 +666,4 @@ Code cleanup and formatting
 Refactored code for better maintainability - v6.7.5
 Updated dependencies to latest versions - update 24
 Added detailed comments for clarity - build 615
+Updated README with new instructions - build 382
