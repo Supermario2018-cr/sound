@@ -991,3 +991,4 @@ Updated README with new instructions
 Optimized algorithm for better efficiency
 Added comprehensive test coverage - build 357
 Fixed typo in documentation - 933
+Refactored code for better maintainability - v2.5.1
