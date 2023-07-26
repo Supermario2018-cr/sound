@@ -1446,3 +1446,4 @@ Added new feature for better user experience - build 344
 Added input validation
 Added new feature for better user experience - build 892
 Fixed code formatting issues - build 384
+Updated README with new instructions - build 420
