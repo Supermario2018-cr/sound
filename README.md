@@ -1302,3 +1302,4 @@ Updated dependencies to latest versions - build 985
 Updated dependencies to latest versions
 Updated version number
 Updated project documentation
+Fixed code formatting issues - v10.0.9
