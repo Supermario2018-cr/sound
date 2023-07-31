@@ -895,3 +895,4 @@ Updated README with new instructions - 201
 Improved user interface design - build 980
 Code cleanup and formatting - build 933
 Updated dependencies to latest versions - v6.3.5
+Added new feature for better user experience
