@@ -891,3 +891,4 @@ Optimized algorithm for better efficiency - build 959
 Updated project documentation - build 570
 Updated configuration settings - update 5
 Added input validation - update 7
+Updated README with new instructions - 201
