@@ -1265,3 +1265,4 @@ Code cleanup and formatting - build 594
 Updated styling and themes - v9.0.0
 Updated configuration settings - 109
 Updated version number
+Updated README with new instructions - 287
