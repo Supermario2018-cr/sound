@@ -1258,3 +1258,4 @@ Fixed code formatting issues - v1.8.3
 Improved user interface design - build 948
 Improved performance optimization - 706
 Improved user interface design - v9.8.5
+Fixed memory management issue
