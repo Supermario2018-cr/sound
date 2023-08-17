@@ -1261,3 +1261,4 @@ Improved user interface design - v9.8.5
 Fixed memory management issue
 Updated project documentation - build 604
 Updated styling and themes
+Code cleanup and formatting - build 594
