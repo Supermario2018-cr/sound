@@ -1579,3 +1579,4 @@ Fixed typo in documentation - v8.2.2
 Refactored code for better maintainability - 226
 Added input validation
 Updated version number - v2.7.4
+Code cleanup and formatting - v8.1.1
