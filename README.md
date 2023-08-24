@@ -1578,3 +1578,4 @@ Fixed typo in documentation - build 485
 Fixed typo in documentation - v8.2.2
 Refactored code for better maintainability - 226
 Added input validation
+Updated version number - v2.7.4
