@@ -197,3 +197,4 @@ Added input validation - v9.0.0
 Added comprehensive test coverage - v10.7.1
 Code cleanup and formatting - build 601
 Improved user interface design - build 298
+Updated README with new instructions
