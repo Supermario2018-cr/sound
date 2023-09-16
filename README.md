@@ -1542,3 +1542,4 @@ Optimized algorithm for better efficiency - 571
 Improved performance optimization - build 594
 Code cleanup and formatting - v7.4.9
 Updated version number - 946
+Added detailed comments for clarity - 997
