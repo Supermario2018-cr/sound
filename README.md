@@ -1090,3 +1090,4 @@ Improved user interface design - v9.8.7
 Fixed critical bug in main module - v10.8.4
 Added input validation
 Fixed critical bug in main module - update 39
+Fixed memory management issue - update 38
