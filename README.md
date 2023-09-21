@@ -1661,3 +1661,4 @@ Improved user interface design - update 50
 Fixed typo in documentation - v3.8.3
 Improved user interface design
 Updated configuration settings - update 41
+Fixed critical bug in main module
