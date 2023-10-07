@@ -1989,3 +1989,4 @@ Added new feature for better user experience - build 421
 Updated project documentation - build 206
 Updated README with new instructions - update 49
 Added new feature for better user experience - v4.0.9
+Fixed code formatting issues - 510
