@@ -1963,3 +1963,4 @@ Added new feature for better user experience - build 954
 Updated README with new instructions
 Improved user interface design - build 916
 Added proper error handling - v3.5.7
+Fixed typo in documentation
