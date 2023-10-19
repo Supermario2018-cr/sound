@@ -1960,3 +1960,4 @@ Added comprehensive test coverage - v5.2.9
 Updated configuration settings - build 666
 Added input validation - build 307
 Added new feature for better user experience - build 954
+Updated README with new instructions
