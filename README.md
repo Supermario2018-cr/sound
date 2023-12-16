@@ -1007,3 +1007,4 @@ Optimized algorithm for better efficiency - update 9
 Added input validation - v7.7.4
 Fixed code formatting issues - v7.7.0
 Improved performance optimization - build 285
+Updated README with new instructions - update 26
