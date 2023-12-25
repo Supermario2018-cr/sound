@@ -301,3 +301,4 @@ Added input validation - update 12
 Code cleanup and formatting - v3.7.9
 Updated version number - build 802
 Updated README with new instructions - v8.8.4
+Fixed critical bug in main module - 653
