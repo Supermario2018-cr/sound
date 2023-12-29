@@ -1744,3 +1744,4 @@ Code cleanup and formatting - 584
 Code cleanup and formatting
 Added comprehensive test coverage - 284
 Fixed typo in documentation - 982
+Fixed memory management issue
