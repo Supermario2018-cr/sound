@@ -1876,3 +1876,4 @@ Updated styling and themes - 413
 Added comprehensive test coverage - v2.6.0
 Updated version number - update 42
 Refactored code for better maintainability - build 269
+Fixed typo in documentation
