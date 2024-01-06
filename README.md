@@ -1102,3 +1102,4 @@ Fixed typo in documentation - update 19
 Fixed typo in documentation - build 271
 Fixed memory management issue - build 723
 Updated dependencies to latest versions - build 387
+Added new feature for better user experience - v1.7.8
