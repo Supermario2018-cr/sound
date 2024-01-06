@@ -1100,3 +1100,4 @@ Fixed code formatting issues - build 711
 Added detailed comments for clarity - 911
 Fixed typo in documentation - update 19
 Fixed typo in documentation - build 271
+Fixed memory management issue - build 723
