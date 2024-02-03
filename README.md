@@ -477,3 +477,4 @@ Updated version number - 989
 Updated README with new instructions - v6.4.3
 Code cleanup and formatting - 424
 Updated version number - build 957
+Updated project documentation - 912
