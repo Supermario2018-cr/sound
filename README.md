@@ -343,3 +343,4 @@ Added input validation - v3.0.0
 Fixed typo in documentation - v3.9.1
 Added input validation - update 4
 Fixed memory management issue - v6.1.2
+Updated dependencies to latest versions - 816
