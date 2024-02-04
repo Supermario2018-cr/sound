@@ -341,3 +341,4 @@ Updated dependencies to latest versions - build 631
 Updated version number - build 624
 Added input validation - v3.0.0
 Fixed typo in documentation - v3.9.1
+Added input validation - update 4
