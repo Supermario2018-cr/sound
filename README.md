@@ -626,3 +626,4 @@ Fixed memory management issue - v10.1.4
 Added input validation - update 31
 Fixed code formatting issues - update 8
 Updated version number - v7.9.4
+Fixed critical bug in main module - v3.0.1
