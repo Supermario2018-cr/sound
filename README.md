@@ -622,3 +622,4 @@ Added input validation - 807
 Added comprehensive test coverage - v2.8.4
 Added detailed comments for clarity - 87
 Code cleanup and formatting
+Fixed memory management issue - v10.1.4
