@@ -1893,3 +1893,4 @@ Added input validation - 744
 Updated version number - build 491
 Improved user interface design - update 41
 Updated project documentation - 41
+Updated README with new instructions
