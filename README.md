@@ -1883,3 +1883,4 @@ Fixed typo in documentation - update 33
 Fixed typo in documentation - v6.3.2
 Fixed memory management issue
 Added proper error handling
+Fixed memory management issue - v7.5.1
