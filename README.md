@@ -1884,3 +1884,4 @@ Fixed typo in documentation - v6.3.2
 Fixed memory management issue
 Added proper error handling
 Fixed memory management issue - v7.5.1
+Updated dependencies to latest versions - build 129
