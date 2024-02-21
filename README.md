@@ -1700,3 +1700,4 @@ Updated styling and themes - update 8
 Updated styling and themes - 699
 Updated README with new instructions - build 958
 Refactored code for better maintainability - v7.3.5
+Added detailed comments for clarity - build 853
