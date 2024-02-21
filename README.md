@@ -1698,3 +1698,4 @@ Code cleanup and formatting - v5.6.6
 Improved user interface design
 Updated styling and themes - update 8
 Updated styling and themes - 699
+Updated README with new instructions - build 958
