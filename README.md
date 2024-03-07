@@ -495,3 +495,4 @@ Fixed critical bug in main module
 Added input validation - 737
 Fixed memory management issue - update 8
 Fixed memory management issue - 597
+Updated version number - v3.8.1
