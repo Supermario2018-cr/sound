@@ -946,3 +946,4 @@ Updated styling and themes - build 174
 Fixed code formatting issues - update 21
 Updated version number
 Fixed code formatting issues - build 992
+Refactored code for better maintainability - v7.1.4
