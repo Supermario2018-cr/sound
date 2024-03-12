@@ -942,3 +942,4 @@ Refactored code for better maintainability - 531
 Fixed typo in documentation - v3.0.7
 Updated README with new instructions - build 471
 Updated version number - update 2
+Updated styling and themes - build 174
