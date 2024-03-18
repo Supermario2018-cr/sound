@@ -1611,3 +1611,4 @@ Fixed memory management issue - v2.4.4
 Updated project documentation - update 49
 Fixed memory management issue - 130
 Added input validation - build 486
+Fixed memory management issue - build 375
