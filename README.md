@@ -803,3 +803,4 @@ Fixed memory management issue - v2.8.2
 Fixed typo in documentation - v3.1.5
 Updated README with new instructions
 Updated styling and themes - build 507
+Added proper error handling - v7.9.1
