@@ -801,3 +801,4 @@ Fixed memory management issue - build 830
 Added comprehensive test coverage
 Fixed memory management issue - v2.8.2
 Fixed typo in documentation - v3.1.5
+Updated README with new instructions
