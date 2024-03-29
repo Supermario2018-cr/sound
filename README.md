@@ -1856,3 +1856,4 @@ Updated README with new instructions - v4.9.4
 Updated version number - build 826
 Code cleanup and formatting
 Added new feature for better user experience - v9.2.6
+Updated version number - v3.3.9
