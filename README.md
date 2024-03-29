@@ -1854,3 +1854,4 @@ Added input validation - build 761
 Refactored code for better maintainability - build 686
 Updated README with new instructions - v4.9.4
 Updated version number - build 826
+Code cleanup and formatting
