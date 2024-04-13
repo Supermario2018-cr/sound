@@ -1233,3 +1233,4 @@ Added input validation - v6.5.6
 Fixed memory management issue - build 422
 Code cleanup and formatting - update 38
 Updated dependencies to latest versions - build 329
+Fixed memory management issue - v8.4.2
