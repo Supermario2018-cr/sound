@@ -1948,3 +1948,4 @@ Added new feature for better user experience - 937
 Updated README with new instructions - build 710
 Updated dependencies to latest versions - update 44
 Updated README with new instructions - update 45
+Fixed critical bug in main module
