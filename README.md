@@ -1387,3 +1387,4 @@ Fixed typo in documentation - v10.3.7
 Added detailed comments for clarity
 Updated styling and themes - build 363
 Added input validation - build 413
+Optimized algorithm for better efficiency - v5.8.1
