@@ -1381,3 +1381,4 @@ Improved performance optimization - v10.8.8
 Fixed typo in documentation - build 459
 Code cleanup and formatting - build 982
 Updated dependencies to latest versions - 438
+Fixed memory management issue - v5.2.2
