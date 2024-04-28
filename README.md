@@ -78,3 +78,4 @@ Optimized algorithm for better efficiency - update 33
 Improved performance optimization - 147
 Improved user interface design
 Fixed critical bug in main module - build 132
+Added input validation - v3.8.5
