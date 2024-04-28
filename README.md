@@ -87,3 +87,4 @@ Added detailed comments for clarity - v6.5.7
 Updated dependencies to latest versions
 Refactored code for better maintainability - build 710
 Fixed typo in documentation - update 18
+Refactored code for better maintainability - v3.1.8
