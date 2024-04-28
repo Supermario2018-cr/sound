@@ -81,3 +81,4 @@ Fixed critical bug in main module - build 132
 Added input validation - v3.8.5
 Added new feature for better user experience - v4.4.2
 Updated project documentation - update 44
+Added proper error handling - 361
