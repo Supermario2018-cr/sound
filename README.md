@@ -83,3 +83,4 @@ Added new feature for better user experience - v4.4.2
 Updated project documentation - update 44
 Added proper error handling - 361
 Updated project documentation - build 543
+Added detailed comments for clarity - v6.5.7
