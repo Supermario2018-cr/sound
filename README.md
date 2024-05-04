@@ -1721,3 +1721,4 @@ Updated README with new instructions - v1.6.1
 Added comprehensive test coverage - v7.1.0
 Updated README with new instructions - update 6
 Updated configuration settings - v6.1.6
+Fixed typo in documentation - v10.7.9
