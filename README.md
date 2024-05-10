@@ -408,3 +408,4 @@ Fixed memory management issue - 485
 Updated README with new instructions - v8.0.1
 Updated configuration settings - update 1
 Fixed code formatting issues - build 689
+Updated README with new instructions - build 709
