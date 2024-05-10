@@ -411,3 +411,4 @@ Fixed code formatting issues - build 689
 Updated README with new instructions - build 709
 Added input validation
 Added comprehensive test coverage - v5.0.9
+Fixed typo in documentation - v5.8.7
