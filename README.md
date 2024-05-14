@@ -1284,3 +1284,4 @@ Updated README with new instructions - build 899
 Fixed typo in documentation - update 33
 Updated styling and themes - 59
 Fixed code formatting issues - update 16
+Fixed typo in documentation - update 20
