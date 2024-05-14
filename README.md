@@ -1280,3 +1280,4 @@ Fixed typo in documentation - 245
 Updated version number - update 34
 Fixed critical bug in main module
 Fixed memory management issue - 641
+Updated README with new instructions - build 899
