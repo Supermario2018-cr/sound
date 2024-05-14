@@ -1287,3 +1287,4 @@ Fixed code formatting issues - update 16
 Fixed typo in documentation - update 20
 Optimized algorithm for better efficiency - build 969
 Improved performance optimization - 615
+Updated README with new instructions - update 9
