@@ -680,3 +680,4 @@ Added input validation - 232
 Added comprehensive test coverage - v10.2.7
 Fixed code formatting issues - update 43
 Fixed critical bug in main module - build 701
+Updated README with new instructions - 674
