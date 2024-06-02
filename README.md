@@ -351,3 +351,4 @@ Added new feature for better user experience - build 581
 Added comprehensive test coverage
 Fixed typo in documentation - update 41
 Refactored code for better maintainability - 137
+Updated README with new instructions - 830
