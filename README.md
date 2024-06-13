@@ -225,3 +225,4 @@ Updated version number - v4.9.0
 Updated dependencies to latest versions
 Added comprehensive test coverage - build 277
 Added comprehensive test coverage - 648
+Updated styling and themes
