@@ -227,3 +227,4 @@ Added comprehensive test coverage - build 277
 Added comprehensive test coverage - 648
 Updated styling and themes
 Code cleanup and formatting
+Updated README with new instructions
