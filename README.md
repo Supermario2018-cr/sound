@@ -112,3 +112,4 @@ Fixed typo in documentation - v9.7.4
 Added input validation - build 395
 Improved performance optimization - 511
 Updated configuration settings
+Added new feature for better user experience - v1.8.9
