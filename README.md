@@ -1080,3 +1080,4 @@ Added new feature for better user experience - v4.6.7
 Updated dependencies to latest versions - 62
 Updated styling and themes - v8.7.9
 Refactored code for better maintainability - update 11
+Updated version number - update 17
