@@ -1785,3 +1785,4 @@ Updated project documentation - 376
 Updated dependencies to latest versions - v8.4.3
 Updated styling and themes - 256
 Fixed typo in documentation - 727
+Fixed memory management issue - update 47
