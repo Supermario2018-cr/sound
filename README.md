@@ -142,3 +142,4 @@ Code cleanup and formatting - v7.5.0
 Added input validation - build 351
 Fixed typo in documentation - v10.9.6
 Fixed memory management issue - 849
+Updated README with new instructions - build 513
