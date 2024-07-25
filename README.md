@@ -1905,3 +1905,4 @@ Updated dependencies to latest versions - update 22
 Updated version number
 Added input validation - build 355
 Improved user interface design - v5.0.5
+Added proper error handling - v3.7.9
