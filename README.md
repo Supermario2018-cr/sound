@@ -451,3 +451,4 @@ Updated version number - v7.5.5
 Added proper error handling - 132
 Fixed critical bug in main module - 593
 Refactored code for better maintainability - build 171
+Added detailed comments for clarity - v6.3.2
