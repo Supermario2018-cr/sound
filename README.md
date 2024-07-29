@@ -1369,3 +1369,4 @@ Added proper error handling
 Fixed critical bug in main module - update 21
 Updated configuration settings
 Added new feature for better user experience - v2.4.7
+Added detailed comments for clarity
