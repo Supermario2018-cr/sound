@@ -1372,3 +1372,4 @@ Added new feature for better user experience - v2.4.7
 Added detailed comments for clarity
 Added new feature for better user experience - 426
 Updated README with new instructions - update 2
+Added detailed comments for clarity - 845
