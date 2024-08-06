@@ -394,3 +394,4 @@ Updated dependencies to latest versions - 126
 Fixed typo in documentation - v2.4.8
 Updated configuration settings - v5.3.3
 Updated README with new instructions - update 22
+Added proper error handling - 945
