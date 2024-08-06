@@ -388,3 +388,4 @@ Added detailed comments for clarity
 Added input validation
 Added input validation - 408
 Updated configuration settings - build 145
+Added proper error handling - v6.0.6
