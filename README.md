@@ -1713,3 +1713,4 @@ Updated version number - update 24
 Updated README with new instructions - v3.8.4
 Updated styling and themes - update 16
 Fixed critical bug in main module - update 13
+Updated README with new instructions - v4.1.8
