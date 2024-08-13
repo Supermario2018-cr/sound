@@ -1710,3 +1710,4 @@ Refactored code for better maintainability
 Refactored code for better maintainability - build 237
 Improved user interface design - 653
 Updated version number - update 24
+Updated README with new instructions - v3.8.4
