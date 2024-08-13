@@ -1717,3 +1717,4 @@ Updated README with new instructions - v4.1.8
 Improved user interface design - v3.4.8
 Added input validation - v10.2.3
 Updated version number - 715
+Updated README with new instructions - v1.6.1
