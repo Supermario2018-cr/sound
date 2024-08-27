@@ -703,3 +703,4 @@ Updated styling and themes - v4.5.7
 Improved user interface design
 Fixed typo in documentation - update 31
 Added new feature for better user experience - 475
+Fixed memory management issue - update 11
