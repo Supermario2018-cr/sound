@@ -404,3 +404,4 @@ Fixed critical bug in main module - 174
 Code cleanup and formatting - v8.4.4
 Refactored code for better maintainability - build 997
 Fixed typo in documentation - 314
+Fixed memory management issue - 485
