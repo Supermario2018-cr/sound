@@ -406,3 +406,4 @@ Refactored code for better maintainability - build 997
 Fixed typo in documentation - 314
 Fixed memory management issue - 485
 Updated README with new instructions - v8.0.1
+Updated configuration settings - update 1
