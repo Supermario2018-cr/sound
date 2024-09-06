@@ -734,3 +734,4 @@ Fixed typo in documentation - v3.0.0
 Refactored code for better maintainability - v5.5.6
 Refactored code for better maintainability - 791
 Optimized algorithm for better efficiency
+Refactored code for better maintainability - 444
