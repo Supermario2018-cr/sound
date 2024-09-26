@@ -64,3 +64,4 @@ Updated version number - build 165
 Refactored code for better maintainability - update 34
 Updated version number - update 13
 Fixed typo in documentation - 142
+Fixed memory management issue - v4.6.6
