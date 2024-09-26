@@ -59,3 +59,4 @@ Added detailed comments for clarity - 939
 Added input validation
 Updated project documentation
 Updated version number - v3.2.5
+Updated dependencies to latest versions - v10.7.5
