@@ -62,3 +62,4 @@ Updated version number - v3.2.5
 Updated dependencies to latest versions - v10.7.5
 Updated version number - build 165
 Refactored code for better maintainability - update 34
+Updated version number - update 13
