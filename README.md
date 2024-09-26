@@ -67,3 +67,4 @@ Fixed typo in documentation - 142
 Fixed memory management issue - v4.6.6
 Updated configuration settings - build 277
 Updated styling and themes - 931
+Added input validation - update 4
