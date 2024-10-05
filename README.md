@@ -898,3 +898,4 @@ Updated dependencies to latest versions - v6.3.5
 Added new feature for better user experience
 Updated version number - v6.3.9
 Improved user interface design
+Fixed memory management issue - build 935
