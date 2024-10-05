@@ -903,3 +903,4 @@ Updated styling and themes - v7.8.8
 Fixed memory management issue - v4.0.6
 Updated README with new instructions - update 7
 Fixed critical bug in main module - update 7
+Updated configuration settings - build 337
