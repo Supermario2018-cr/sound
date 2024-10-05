@@ -900,3 +900,4 @@ Updated version number - v6.3.9
 Improved user interface design
 Fixed memory management issue - build 935
 Updated styling and themes - v7.8.8
+Fixed memory management issue - v4.0.6
