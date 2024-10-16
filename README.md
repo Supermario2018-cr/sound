@@ -532,3 +532,4 @@ Added detailed comments for clarity - build 136
 Fixed critical bug in main module
 Updated styling and themes - 535
 Fixed critical bug in main module - v3.6.3
+Added new feature for better user experience - v4.0.5
