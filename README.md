@@ -784,3 +784,4 @@ Refactored code for better maintainability - 252
 Optimized algorithm for better efficiency - v10.3.6
 Added proper error handling - build 568
 Optimized algorithm for better efficiency - v1.6.7
+Updated README with new instructions - update 46
