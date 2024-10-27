@@ -1777,3 +1777,4 @@ Updated README with new instructions - update 21
 Added proper error handling - 175
 Fixed typo in documentation - 542
 Improved performance optimization - 942
+Added detailed comments for clarity - update 8
