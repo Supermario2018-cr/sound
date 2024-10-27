@@ -1773,3 +1773,4 @@ Added new feature for better user experience - build 911
 Added new feature for better user experience - v7.4.3
 Improved performance optimization - update 2
 Fixed critical bug in main module - v3.3.1
+Updated README with new instructions - update 21
