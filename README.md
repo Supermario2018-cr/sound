@@ -105,3 +105,4 @@ Code cleanup and formatting - build 761
 Updated styling and themes
 Code cleanup and formatting - update 8
 Updated version number - v4.4.4
+Updated styling and themes
