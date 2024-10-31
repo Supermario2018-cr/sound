@@ -100,3 +100,4 @@ Added new feature for better user experience - update 48
 Fixed code formatting issues - v6.4.5
 Fixed memory management issue - v10.4.3
 Code cleanup and formatting - update 13
+Fixed memory management issue
