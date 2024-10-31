@@ -102,3 +102,4 @@ Fixed memory management issue - v10.4.3
 Code cleanup and formatting - update 13
 Fixed memory management issue
 Code cleanup and formatting - build 761
+Updated styling and themes
