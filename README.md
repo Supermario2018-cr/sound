@@ -1140,3 +1140,4 @@ Added new feature for better user experience - v1.0.7
 Added detailed comments for clarity - update 26
 Code cleanup and formatting - v6.2.1
 Fixed code formatting issues - v8.3.4
+Updated README with new instructions - update 14
