@@ -588,3 +588,4 @@ Fixed typo in documentation - v7.5.6
 Updated README with new instructions - build 576
 Improved user interface design - build 741
 Updated project documentation - update 47
+Added detailed comments for clarity - 226
