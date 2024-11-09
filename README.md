@@ -1245,3 +1245,4 @@ Added detailed comments for clarity - v10.3.1
 Fixed critical bug in main module - 884
 Fixed critical bug in main module - v2.0.9
 Fixed memory management issue - update 15
+Updated README with new instructions
