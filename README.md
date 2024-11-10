@@ -150,3 +150,4 @@ Added new feature for better user experience - update 49
 Fixed code formatting issues - v10.4.4
 Fixed typo in documentation - update 4
 Fixed code formatting issues - v2.4.8
+Fixed memory management issue - 867
