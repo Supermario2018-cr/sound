@@ -1497,3 +1497,4 @@ Added new feature for better user experience - update 36
 Fixed critical bug in main module
 Updated dependencies to latest versions - v9.7.4
 Added comprehensive test coverage
+Code cleanup and formatting - v1.8.1
