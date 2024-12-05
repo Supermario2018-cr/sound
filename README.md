@@ -1491,3 +1491,4 @@ Updated dependencies to latest versions - build 660
 Updated version number - build 147
 Updated project documentation - v8.3.5
 Added comprehensive test coverage - update 3
+Fixed memory management issue - v6.3.9
