@@ -1495,3 +1495,4 @@ Fixed memory management issue - v6.3.9
 Fixed critical bug in main module - v10.9.9
 Added new feature for better user experience - update 36
 Fixed critical bug in main module
+Updated dependencies to latest versions - v9.7.4
