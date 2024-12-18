@@ -1321,3 +1321,4 @@ Code cleanup and formatting - update 39
 Code cleanup and formatting - 359
 Updated configuration settings - v5.2.5
 Updated version number - v3.3.6
+Updated README with new instructions - build 977
