@@ -552,3 +552,4 @@ Added new feature for better user experience - build 774
 Updated version number - v1.1.0
 Added input validation
 Fixed typo in documentation - 274
+Added detailed comments for clarity - update 20
