@@ -553,3 +553,4 @@ Updated version number - v1.1.0
 Added input validation
 Fixed typo in documentation - 274
 Added detailed comments for clarity - update 20
+Fixed code formatting issues - 845
