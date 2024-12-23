@@ -551,3 +551,4 @@ Updated README with new instructions - v8.0.5
 Added new feature for better user experience - build 774
 Updated version number - v1.1.0
 Added input validation
+Fixed typo in documentation - 274
