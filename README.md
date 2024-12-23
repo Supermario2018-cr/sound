@@ -557,3 +557,4 @@ Fixed code formatting issues - 845
 Updated project documentation
 Refactored code for better maintainability - 701
 Refactored code for better maintainability
+Updated styling and themes - 799
