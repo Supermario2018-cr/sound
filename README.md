@@ -22,3 +22,4 @@ Updated configuration settings - update 45
 Updated version number - build 223
 Added new feature for better user experience - update 35
 Improved user interface design - update 38
+Fixed memory management issue - v3.8.5
