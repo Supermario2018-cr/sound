@@ -26,3 +26,4 @@ Fixed memory management issue - v3.8.5
 Fixed critical bug in main module
 Added comprehensive test coverage - 325
 Added comprehensive test coverage - update 24
+Fixed memory management issue - v2.9.3
