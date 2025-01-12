@@ -1357,3 +1357,4 @@ Added new feature for better user experience - build 401
 Updated dependencies to latest versions
 Improved user interface design
 Improved user interface design - build 777
+Fixed memory management issue
