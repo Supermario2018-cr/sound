@@ -1575,3 +1575,4 @@ Added input validation
 Added detailed comments for clarity - 9
 Added detailed comments for clarity - v1.3.7
 Fixed typo in documentation - build 485
+Fixed typo in documentation - v8.2.2
