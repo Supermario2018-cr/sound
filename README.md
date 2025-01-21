@@ -1047,3 +1047,4 @@ Updated styling and themes - build 180
 Updated configuration settings - build 394
 Updated README with new instructions - v1.2.8
 Updated configuration settings - 845
+Updated styling and themes - build 117
