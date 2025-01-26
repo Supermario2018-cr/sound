@@ -1845,3 +1845,4 @@ Added proper error handling
 Optimized algorithm for better efficiency - 556
 Updated README with new instructions
 Updated project documentation
+Added detailed comments for clarity
