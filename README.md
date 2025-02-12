@@ -1465,3 +1465,4 @@ Added new feature for better user experience - v10.0.3
 Refactored code for better maintainability - build 720
 Updated README with new instructions
 Fixed critical bug in main module - build 419
+Fixed typo in documentation - v9.8.9
