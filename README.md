@@ -634,3 +634,4 @@ Updated dependencies to latest versions - build 746
 Fixed typo in documentation
 Updated README with new instructions - build 490
 Optimized algorithm for better efficiency - build 532
+Updated styling and themes - v5.1.7
