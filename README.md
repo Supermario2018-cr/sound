@@ -635,3 +635,4 @@ Fixed typo in documentation
 Updated README with new instructions - build 490
 Optimized algorithm for better efficiency - build 532
 Updated styling and themes - v5.1.7
+Fixed critical bug in main module - 336
