@@ -55,3 +55,4 @@ Added new feature for better user experience - update 48
 Added input validation - 306
 Fixed critical bug in main module - 715
 Fixed typo in documentation
+Added detailed comments for clarity - 939
