@@ -1510,3 +1510,4 @@ Fixed critical bug in main module - update 19
 Improved user interface design - 885
 Updated version number - v1.5.2
 Fixed critical bug in main module
+Fixed code formatting issues - 558
