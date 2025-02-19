@@ -498,3 +498,4 @@ Fixed memory management issue - 597
 Updated version number - v3.8.1
 Updated styling and themes - update 23
 Improved performance optimization
+Added detailed comments for clarity - v4.3.2
