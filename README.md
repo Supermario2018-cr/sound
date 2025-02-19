@@ -504,3 +504,4 @@ Fixed code formatting issues - update 10
 Updated project documentation - 161
 Fixed code formatting issues - build 239
 Updated project documentation - build 408
+Added detailed comments for clarity - update 21
