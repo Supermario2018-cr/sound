@@ -617,3 +617,4 @@ Added input validation - 756
 Updated version number - build 573
 Added new feature for better user experience - 884
 Updated project documentation
+Updated configuration settings - v10.3.5
