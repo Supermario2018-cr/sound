@@ -965,3 +965,4 @@ Refactored code for better maintainability - v1.0.4
 Added new feature for better user experience
 Updated styling and themes - 232
 Updated dependencies to latest versions - 311
+Fixed code formatting issues - v6.8.3
