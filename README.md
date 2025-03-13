@@ -561,3 +561,4 @@ Updated styling and themes - 799
 Added new feature for better user experience - build 319
 Added proper error handling
 Updated styling and themes - v2.2.6
+Updated README with new instructions - v8.2.1
