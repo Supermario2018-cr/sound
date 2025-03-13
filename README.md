@@ -566,3 +566,4 @@ Updated styling and themes
 Improved user interface design - build 541
 Improved user interface design - 645
 Updated configuration settings - update 10
+Improved user interface design - update 16
