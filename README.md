@@ -1566,3 +1566,4 @@ Updated README with new instructions - 316
 Added comprehensive test coverage - update 44
 Updated styling and themes - build 656
 Fixed critical bug in main module - v3.9.7
+Updated version number - v10.9.3
