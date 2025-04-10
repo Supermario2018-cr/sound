@@ -365,3 +365,4 @@ Updated styling and themes - 264
 Updated styling and themes - update 26
 Updated dependencies to latest versions - 799
 Updated project documentation
+Fixed memory management issue - build 966
