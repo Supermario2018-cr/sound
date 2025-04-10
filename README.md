@@ -361,3 +361,4 @@ Updated version number - build 307
 Updated configuration settings
 Added new feature for better user experience - v7.0.5
 Added new feature for better user experience - update 8
+Updated styling and themes - 264
