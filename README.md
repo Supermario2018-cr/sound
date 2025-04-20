@@ -708,3 +708,4 @@ Added new feature for better user experience - build 652
 Optimized algorithm for better efficiency - build 271
 Optimized algorithm for better efficiency - 21
 Updated version number
+Updated README with new instructions - v6.1.0
