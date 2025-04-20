@@ -709,3 +709,4 @@ Optimized algorithm for better efficiency - build 271
 Optimized algorithm for better efficiency - 21
 Updated version number
 Updated README with new instructions - v6.1.0
+Fixed critical bug in main module - build 828
