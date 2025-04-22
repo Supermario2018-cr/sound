@@ -1599,3 +1599,4 @@ Refactored code for better maintainability - update 44
 Code cleanup and formatting - v7.1.5
 Refactored code for better maintainability - build 967
 Improved performance optimization - v8.3.1
+Added detailed comments for clarity - build 326
