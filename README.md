@@ -873,3 +873,4 @@ Added input validation - update 5
 Updated dependencies to latest versions
 Updated README with new instructions - build 984
 Improved user interface design - build 656
+Code cleanup and formatting - v1.7.2
