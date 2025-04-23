@@ -876,3 +876,4 @@ Improved user interface design - build 656
 Code cleanup and formatting - v1.7.2
 Fixed critical bug in main module - v5.7.0
 Added new feature for better user experience - v5.4.2
+Updated README with new instructions - build 550
