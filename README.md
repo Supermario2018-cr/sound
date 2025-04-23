@@ -869,3 +869,4 @@ Updated dependencies to latest versions
 Updated version number - update 17
 Updated README with new instructions - build 861
 Improved performance optimization - v7.1.2
+Added input validation - update 5
