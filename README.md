@@ -128,3 +128,4 @@ Fixed code formatting issues - v6.1.0
 Added comprehensive test coverage
 Updated README with new instructions - 774
 Fixed critical bug in main module - 187
+Fixed memory management issue - v1.6.5
