@@ -7,3 +7,4 @@ Updated configuration settings - 648
 Updated configuration settings - build 700
 Added input validation - v4.9.9
 Optimized algorithm for better efficiency - update 10
+Updated README with new instructions - build 833
