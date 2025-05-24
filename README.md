@@ -290,3 +290,4 @@ Updated dependencies to latest versions - update 23
 Added input validation
 Added new feature for better user experience - update 1
 Fixed memory management issue
+Fixed typo in documentation - 794
