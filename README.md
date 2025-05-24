@@ -292,3 +292,4 @@ Added new feature for better user experience - update 1
 Fixed memory management issue
 Fixed typo in documentation - 794
 Improved performance optimization - update 46
+Added new feature for better user experience - v7.7.6
