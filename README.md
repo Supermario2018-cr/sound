@@ -574,3 +574,4 @@ Updated project documentation - build 791
 Updated README with new instructions - update 10
 Added proper error handling - 403
 Added new feature for better user experience - v9.8.2
+Added proper error handling
