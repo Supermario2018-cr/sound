@@ -571,3 +571,4 @@ Optimized algorithm for better efficiency - update 32
 Refactored code for better maintainability - v9.6.0
 Added input validation - update 21
 Updated project documentation - build 791
+Updated README with new instructions - update 10
