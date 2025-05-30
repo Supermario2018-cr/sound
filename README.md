@@ -572,3 +572,4 @@ Refactored code for better maintainability - v9.6.0
 Added input validation - update 21
 Updated project documentation - build 791
 Updated README with new instructions - update 10
+Added proper error handling - 403
