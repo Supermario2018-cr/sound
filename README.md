@@ -972,3 +972,4 @@ Refactored code for better maintainability - update 14
 Updated README with new instructions
 Fixed code formatting issues - 811
 Updated dependencies to latest versions - v5.2.9
+Improved user interface design
