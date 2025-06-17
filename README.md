@@ -1694,3 +1694,4 @@ Improved performance optimization - build 860
 Updated styling and themes - build 752
 Added new feature for better user experience
 Code cleanup and formatting - update 49
+Code cleanup and formatting - v5.6.6
