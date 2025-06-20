@@ -1468,3 +1468,4 @@ Fixed critical bug in main module - build 419
 Fixed typo in documentation - v9.8.9
 Fixed typo in documentation - build 652
 Added input validation - update 3
+Added detailed comments for clarity - build 460
