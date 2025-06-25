@@ -310,3 +310,4 @@ Updated configuration settings - 823
 Added input validation
 Updated README with new instructions
 Fixed typo in documentation - v7.1.1
+Updated version number - update 18
