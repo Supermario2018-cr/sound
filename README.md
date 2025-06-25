@@ -309,3 +309,4 @@ Updated project documentation - build 178
 Updated configuration settings - 823
 Added input validation
 Updated README with new instructions
+Fixed typo in documentation - v7.1.1
