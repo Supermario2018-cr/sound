@@ -311,3 +311,4 @@ Added input validation
 Updated README with new instructions
 Fixed typo in documentation - v7.1.1
 Updated version number - update 18
+Refactored code for better maintainability - v7.6.2
