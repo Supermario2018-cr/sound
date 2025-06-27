@@ -910,3 +910,4 @@ Fixed memory management issue - update 10
 Updated configuration settings - build 844
 Updated version number - v6.8.7
 Code cleanup and formatting - build 787
+Fixed typo in documentation - v2.0.2
