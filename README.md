@@ -879,3 +879,4 @@ Added new feature for better user experience - v5.4.2
 Updated README with new instructions - build 550
 Refactored code for better maintainability
 Fixed memory management issue - 241
+Code cleanup and formatting - v2.1.2
