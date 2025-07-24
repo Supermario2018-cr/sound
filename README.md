@@ -1554,3 +1554,4 @@ Fixed critical bug in main module - v1.4.6
 Updated README with new instructions - build 619
 Refactored code for better maintainability - 724
 Updated configuration settings
+Added detailed comments for clarity
