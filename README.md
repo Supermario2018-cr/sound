@@ -987,3 +987,4 @@ Updated configuration settings - build 650
 Improved user interface design - build 297
 Added detailed comments for clarity - 185
 Added input validation - 893
+Updated README with new instructions
