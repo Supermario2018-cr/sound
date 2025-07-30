@@ -73,3 +73,4 @@ Added comprehensive test coverage - update 30
 Updated project documentation - build 589
 Updated project documentation - update 4
 Added new feature for better user experience - update 34
+Updated README with new instructions - 209
