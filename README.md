@@ -1481,3 +1481,4 @@ Updated version number
 Fixed typo in documentation
 Improved user interface design - build 354
 Improved user interface design - update 15
+Added proper error handling - 258
