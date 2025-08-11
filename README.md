@@ -1050,3 +1050,4 @@ Updated configuration settings - 845
 Updated styling and themes - build 117
 Fixed critical bug in main module - build 710
 Updated configuration settings - 731
+Updated README with new instructions - build 866
