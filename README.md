@@ -1290,3 +1290,4 @@ Improved performance optimization - 615
 Updated README with new instructions - update 9
 Improved performance optimization - v1.0.8
 Updated version number
+Fixed typo in documentation - update 8
