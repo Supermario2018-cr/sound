@@ -1289,3 +1289,4 @@ Optimized algorithm for better efficiency - build 969
 Improved performance optimization - 615
 Updated README with new instructions - update 9
 Improved performance optimization - v1.0.8
+Updated version number
