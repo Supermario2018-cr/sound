@@ -1293,3 +1293,4 @@ Updated version number
 Fixed typo in documentation - update 8
 Fixed critical bug in main module - v2.1.9
 Code cleanup and formatting - v3.3.3
+Fixed typo in documentation - update 47
