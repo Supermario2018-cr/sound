@@ -1291,3 +1291,4 @@ Updated README with new instructions - update 9
 Improved performance optimization - v1.0.8
 Updated version number
 Fixed typo in documentation - update 8
+Fixed critical bug in main module - v2.1.9
