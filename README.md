@@ -766,3 +766,4 @@ Fixed code formatting issues - update 7
 Updated project documentation - 61
 Updated version number - v3.4.8
 Code cleanup and formatting - v5.4.4
+Added detailed comments for clarity - 308
