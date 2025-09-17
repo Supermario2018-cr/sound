@@ -335,3 +335,4 @@ Updated dependencies to latest versions - 42
 Optimized algorithm for better efficiency - update 3
 Updated styling and themes - update 37
 Updated README with new instructions
+Fixed memory management issue - update 20
