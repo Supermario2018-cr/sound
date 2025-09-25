@@ -585,3 +585,4 @@ Updated configuration settings
 Optimized algorithm for better efficiency
 Updated dependencies to latest versions - v2.6.6
 Fixed typo in documentation - v7.5.6
+Updated README with new instructions - build 576
